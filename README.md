@@ -1,5 +1,7 @@
 # Photon Fusion on Arbitrium
 
+![Add Edgegap dedicated game servers to Photon Fusion's Tanknarok sample in Unity.](docs/images/card.jpg)
+
 This guide will help you create a headless server on Edgegap for a Unity project using [Photon Fusion]( https://doc.photonengine.com/en-us/fusion/current/getting-started/fusion-intro) as its networking solution.
 
 In this guide, we will be using the sample project [`Tanknarok` from Photon Fusion]( https://doc.photonengine.com/en-us/fusion/current/game-samples/fusion-tanknarok) as an example.
