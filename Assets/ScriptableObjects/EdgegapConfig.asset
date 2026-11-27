@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AppName: TanknorakExample
   Version: v5
-  ApiToken: token da90cb6b-8830-40da-a363-4f6c29b56169
+  ApiToken: 
   ApiEndpoint: https://api.edgegap.com
